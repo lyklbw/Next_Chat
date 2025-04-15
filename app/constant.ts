@@ -495,6 +495,9 @@ const openaiModels = [
   "gpt-4-vision-preview",
   "gpt-4-turbo-2024-04-09",
   "gpt-4-1106-preview",
+  "gpt-4.1"
+  "gpt-4.1-mini"
+  "gpt-4.1-nano"
   "dall-e-3",
   "o1-mini",
   "o1-preview",
